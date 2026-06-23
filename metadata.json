@@ -1,0 +1,6 @@
+{
+  "name": "Pretibimb Academy",
+  "description": "Premium educational learning app of Pretibimb Academy with live classes, PDF notes, quiz tests, and multi-user roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
