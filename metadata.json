@@ -1,6 +1,6 @@
 {
   "name": "Pratibimb Academy",
-  "description": "Professional landing page for Pratibimb Academy.",
+  "description": "Educational portal for Rajasthan state exams including REET, CET, Patwar, and Police. Access PDFs and Mock Tests.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
